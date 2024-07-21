@@ -2,7 +2,7 @@
 # Corpus PDF Chatbot
 
 ## Overview
-This project implements a chatbot that answers questions about a specific PDF document using LangChain and Ollama.
+This project implements a chatbot that answers questions about a specific PDF document using LangChain and Ollama. For video demo (click here)[https://drive.google.com/file/d/1g8O8WxTQ9ZyaCL3uaWvQdjKXtw_fP4B8/view?usp=sharing]
 
 ## Features
 - PDF document ingestion and processing
