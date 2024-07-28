@@ -1,5 +1,5 @@
 
-# Corpus PDF Chatbot
+# Smart-PDF-QA-Bot
 
 ## Overview
 This project implements a chatbot that answers questions about a specific PDF document using LangChain and Ollama. For video demo [click here](https://drive.google.com/file/d/1g8O8WxTQ9ZyaCL3uaWvQdjKXtw_fP4B8/view?usp=sharing)
